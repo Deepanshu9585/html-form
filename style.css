@@ -1,0 +1,33 @@
+*{
+    background-color: black;
+}
+body{
+    text-align: center;
+    justify-content: center;
+}
+
+.input-data{
+    color: aliceblue;
+}
+
+.input-data input{
+    color: antiquewhite;
+}
+
+.heading{
+    width: 600px;
+height: 144px;
+left: 250px;
+top: 154px;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px
+
+}
+
+.wrapper .input-data input{
+    width: 80%;
+    border: none;
+    border-bottom: 2px solid white;
+}
+
